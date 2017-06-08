@@ -1,0 +1,24 @@
+{
+    "name": "changwei/array2text",
+    "description": "this is a php script, it can convert a php associative array to a text",
+    "keywords": ["array", "text", "convert", "util"],
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "昌维",
+            "email": "867597730@qq.com",
+            "homepage": "http://github.com/cw1997",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Changwei\\": "src/"
+        }
+    }
+}
