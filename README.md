@@ -4,6 +4,8 @@ convert a php associative array to a text
 一个将PHP关联数组转换为文本形式表格的小工具
 
 # example
+![](https://github.com/cw1997/array2text/blob/master/array2text.png?raw=true)
+
 input:
 
 
