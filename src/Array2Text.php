@@ -1,5 +1,6 @@
 <?php
 namespace Changwei;
+
 /**
 * @author 昌维[867597730@qq.com]
 * @website http://github.com/cw1997
@@ -28,7 +29,7 @@ class Array2Text
 	{
 		// 检测是否为有效数组
 		if ( ! isset($arr[0]) ) {
-			throw new Exception("Error Input Array");
+			throw new \Exception("Error Input Array");
 		}
 
 		// 将keys索引数组转换为关联数组，并将关联键名unshift到头部作为表头
