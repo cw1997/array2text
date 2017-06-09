@@ -4,7 +4,9 @@
     "keywords": ["array", "text", "convert", "util"],
     "type": "library",
     "license": "Apache-2.0",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "prefer-stable": true,
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "昌维",
