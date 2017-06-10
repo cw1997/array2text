@@ -3,7 +3,8 @@ namespace Changwei;
 
 /**
 * @author 昌维[867597730@qq.com]
-* @website http://github.com/cw1997
+* @package Changwei
+* @website https://github.com/cw1997/array2text
 * @date 2017-06-08 21:22:55
 */
 class Array2Text
